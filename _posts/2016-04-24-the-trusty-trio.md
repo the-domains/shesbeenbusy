@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "For the past 19 months, the above have been the constant of my life. On a well deserved sabbatical, I've been living outside the US. Sometimes, one just needs a break from familiarity, monotony, and the same mindset. It's like how artists step away from their work and later revisit it with fresh eyes. Well, that's pretty much me. "
-datePublished: '2016-04-24T20:20:54.697Z'
-dateModified: '2016-04-24T20:11:00.346Z'
+datePublished: '2016-04-24T20:27:23.470Z'
+dateModified: '2016-04-24T20:22:52.407Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-24-the-trusty-trio.md
