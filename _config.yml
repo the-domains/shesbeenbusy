@@ -1,0 +1,28 @@
+name: shesbeenbusy
+favicon: null
+layout_spectrum: 0.5499333322513849
+typography_spectrum: 0.30912334797903895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.45055282628163695
+  lightness: 0.4342029825784266
+  saturation: 0.5487849048804492
+  rhythmicContrast: 0.6652038649190217
+purpose: []
