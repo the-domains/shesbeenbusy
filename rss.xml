@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[shesbeenbusy]]></title>
+        <description><![CDATA[shesbeenbusy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Apr 2016 14:58:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Trusty Trio]]></title>
+            <description><![CDATA[<p>For the past 19 months, I have been living outside the US. Sometimes, one just needs a break from familiarity, monotony, and the same mindset. It's like how artists step away from their work and later revisit it with fresh eyes. Well, that's pretty much me. I knew with the next election coming up, I had to step away. Mostly, I knew I had settled into the life of someone I just didn't want be. Fulfillment was missing from my work life, friends were cool, but I never got to see them anymore because I was just too drained from work, AND my living situation in Orlando was less than ideal for many reasons. </p>]]></description>
+            <link>undefinedthe-trusty-trio/index.html</link>
+            <guid isPermaLink="false">33eb1db5-efd2-4f42-ad0e-2d8557ad2217</guid>
+            <pubDate>Sun, 24 Apr 2016 14:57:32 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
