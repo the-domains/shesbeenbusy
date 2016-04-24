@@ -1,7 +1,7 @@
 name: "she's been busy"
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.11641
+layout_spectrum: 0.50073
+typography_spectrum: 0.1202
 title: what have i been up to?
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.3125
-  lightness: 0.3125
-  saturation: 0.1875
+    - '#1a191e'
+    - '#73787b'
+    - '#524d4a'
+    - '#adb6bf'
+    - '#619aad'
+  brandStrength: 0.5
+  lightness: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
